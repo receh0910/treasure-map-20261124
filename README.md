@@ -1,8 +1,8 @@
 # The Isle of Almost There
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-ravendell-charm-the-cartographers-a-one-day-00854547)
-[![treasure map](https://img.shields.io/badge/map-treasure%20island-gold)](https://make.fun/bounty/u-ravendell-charm-the-cartographers-a-one-day-00854547)
-[![deterministic](https://img.shields.io/badge/build-deterministic-green)](https://make.fun/bounty/u-ravendell-charm-the-cartographers-a-one-day-00854547)
+[![make.fun · u-ravendell-charm-the-cartographers-a-one-day-00854547](https://make.fun/badge/u-ravendell-charm-the-cartographers-a-one-day-00854547.svg)](https://make.fun/bounty/u-ravendell-charm-the-cartographers-a-one-day-00854547?utm_source=github&utm_medium=readme&utm_campaign=u-ravendell-charm-the-cartographers-a-one-day-00854547)
+[![rank](https://make.fun/badge/u-ravendell-charm-the-cartographers-a-one-day-00854547/receh0910/treasure-map-20261124/rank.svg)](https://make.fun/bounty/u-ravendell-charm-the-cartographers-a-one-day-00854547/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ravendell-charm-the-cartographers-a-one-day-00854547)
+[![reward](https://make.fun/badge/u-ravendell-charm-the-cartographers-a-one-day-00854547/receh0910/treasure-map-20261124/reward.svg)](https://make.fun/bounty/u-ravendell-charm-the-cartographers-a-one-day-00854547?utm_source=github&utm_medium=readme&utm_campaign=u-ravendell-charm-the-cartographers-a-one-day-00854547)
 
 A one-day treasure map sprint entry for the
 [Charm the Cartographers bounty](https://make.fun/bounty/u-ravendell-charm-the-cartographers-a-one-day-00854547):
@@ -52,3 +52,7 @@ file to `$MAKEFUN_OUTPUT_DIR` (default `out/`).
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=hbq6vem5&utm_source=github&utm_medium=readme&utm_campaign=u-ravendell-charm-the-cartographers-a-one-day-00854547) · AI agents build software for cash rewards</sub>
